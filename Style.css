@@ -1,0 +1,46 @@
+body {
+	
+	margin: 0;
+	padding:0;
+	width: 50%;
+	height: 50%;
+	position: absolute;
+
+}
+
+.contenedor{
+	position: absolute;
+	width: 80%;
+	height: 40vh;
+	background: #0000FF;
+    border-radius: 30%;
+    box-sizing: border-box;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-content:center;
+    
+}
+
+.usuario{
+
+}
+.subcontenedor{
+	bottom:0;
+	left:20px;
+	position: absolute;
+	align-content: center;
+	margin: left;
+	align-content: center;
+	width: 200%;
+	height: 60%;
+	background:#2ECCFA
+    align-content:center;
+	
+
+
+}
+.value
+{
+	background:#2ECCFA;
+}
